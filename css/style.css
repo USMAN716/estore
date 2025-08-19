@@ -119,3 +119,10 @@ form button:hover {
   border-left: 4px solid #0077cc;
 }
 
+/* Blog page styles */
+.blog article {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+
