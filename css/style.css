@@ -125,4 +125,14 @@ form button:hover {
   padding-bottom: 10px;
 }
 
+/* Contact page styles */
+form {
+  max-width: 500px;
+  margin: auto;
+}
+
+form input, form textarea {
+  border-radius: 4px;
+}
+
 
