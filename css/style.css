@@ -101,3 +101,14 @@ form button {
 form button:hover {
   background: #555;
 }
+
+/* Portfolio page styles */
+.portfolio h2 {
+  color: #0077cc;
+}
+
+.portfolio div {
+  background: #f5f5f5;
+  border: 1px solid #ddd;
+  padding: 15px;
+}
