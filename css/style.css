@@ -112,3 +112,10 @@ form button:hover {
   border: 1px solid #ddd;
   padding: 15px;
 }
+
+/* Services page styles */
+.services li {
+  background: #f9f9f9;
+  border-left: 4px solid #0077cc;
+}
+
